@@ -1,5 +1,4 @@
 import requests
-import os
 from bs4 import BeautifulSoup
 
 def simplify_dom(url: str) -> str:
